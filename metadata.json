@@ -1,0 +1,6 @@
+{
+  "name": "EDUSCHOOL 360 — Sistem Pengurusan Sekolah Pintar",
+  "description": "Platform pengurusan sekolah bersepadu untuk pentadbir, ketua bidang, ketua panitia, guru dan staf SMK Salaping, Sabah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
